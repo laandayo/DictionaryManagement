@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="976cf99e-4d1a-4008-92d8-e3b1f8bf044c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DictionaryManagement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/DictionaryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/Validation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataAccess/DictionaryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repository/DictionaryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repository/IDictionaryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/Menu.java" afterDir="false" />
-    </list>
+    <list default="true" id="976cf99e-4d1a-4008-92d8-e3b1f8bf044c" name="Changes" comment="folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -77,6 +61,19 @@
       <option name="presentableId" value="Default" />
       <updated>1697243261665</updated>
     </task>
+    <task id="LOCAL-00001" summary="folder">
+      <option name="closed" value="true" />
+      <created>1697359017136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697359017136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="folder" />
   </component>
 </project>
