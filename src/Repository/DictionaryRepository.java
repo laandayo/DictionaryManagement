@@ -3,7 +3,7 @@ package Repository;
 import DataAccess.DictionaryDao;
 
 public class DictionaryRepository implements IDictionaryRepository {
-    private DictionaryDao data = new DictionaryDao();
+    private final DictionaryDao data = new DictionaryDao();
 
     @Override
     public void addWord() {
